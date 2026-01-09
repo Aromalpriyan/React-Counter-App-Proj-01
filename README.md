@@ -1,6 +1,6 @@
 # Counter App
 
-## [Live@]()
+## [Live@](https://react-counter-app-proj-01.vercel.app/)
 
 ## 📋 Overview
 <p>A clean and interactive Counter Application built with React and styled using Tailwind CSS. The app provides increment, decrement, and reset functionality with defined value limits and a modern UI design.</p>
@@ -64,7 +64,7 @@ src/
 
 #### 1. Clone the repository
 ```
-git clone https://github.com/your-username/react-counter-app.git
+git clone https://github.com/Aromalpriyan/React-Counter-App-Proj-01
 ```
 #### 2.Navigate to the project folder
 ```
